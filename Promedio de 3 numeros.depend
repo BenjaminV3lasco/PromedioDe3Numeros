@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629331300 source:c:\users\pepe\desktop\facultad del orto\2do cuatrimestre\algoritmos y estructuras de datos i\ejercicios en c\promedio de 3 numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+
